@@ -188,7 +188,6 @@ class Elmen {
 		}
 		return this;
 	}
-
 	/**
 	 * This runs the provided functions, in order, on the element. Each function takes in only the element as an argument.
 	 * @param {...function} functions functions to run on the element
